@@ -4,10 +4,10 @@
 
 > ⚠️ **このリポジトリはデモ（UIシミュレーション）です。実際のAPIやファイルシステムは使っていません。**
 > ボタンの動きはすべてブラウザ内の演出です。実際にファイルを安全に整理する**本物の実装**は
-> [**dir-organizer**](https://github.com/satoryudev/dir-organizer)（Claude Code スキル）の方です。
+> [**tidy**](https://github.com/satoryudev/tidy)（Claude Code スキル）の方です。
 
 - 🌐 デプロイ: https://tidy-prototype-v2.vercel.app
-- 🤖 本物の実装: https://github.com/satoryudev/dir-organizer
+- 🤖 本物の実装: https://github.com/satoryudev/tidy
 - 🏫 由来: 千葉工業大学「web3・AI概論 2026」第6回課題（プロトタイプ v2）
 
 ## v1 → v2 の核心
